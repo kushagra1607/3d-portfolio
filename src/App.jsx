@@ -120,7 +120,7 @@ function App() {
   };
 
   const projects = [
-    { num: '01', title: 'BOF Steelmaking Simulator', desc: 'ML pipeline simulating Basic Oxygen Furnace operations with XGBoost and LSTM for CO₂ optimization.', tags: ['Python', 'XGBoost', 'LSTM'], link: 'https://share.streamlit.io/kushagra1607/bof-deploy/master/app.py' },
+    { num: '01', title: 'BOF Steelmaking Simulator', desc: 'ML pipeline simulating Basic Oxygen Furnace operations with XGBoost and LSTM for CO₂ optimization.', tags: ['Python', 'XGBoost', 'LSTM'], link: 'https://bof-deploy-23nkn2sxqegacxtn8sm9u3.streamlit.app/' },
     { num: '02', title: 'YouTube Shorts AI Pipeline', desc: 'End-to-end automated system for generating and publishing YouTube Shorts using AI.', tags: ['n8n', 'Gemini API', 'ElevenLabs'] },
     { num: '03', title: 'What To Watch Next', desc: 'Content-based movie recommendation engine using cosine similarity on 5000+ entries.', tags: ['JavaScript', 'HTML/CSS', 'Algorithms'], link: 'https://kushagra1607.github.io/what-to-watch-next/' },
     { num: '04', title: 'College One-Stop Web App', desc: 'Unified college platform — laundry, food, rentals, and library in one interface.', tags: ['Next.js', 'Strapi', 'Tailwind'], link: 'https://campuskart-iit-patna.netlify.app' },
@@ -386,7 +386,7 @@ function App() {
                   <span>LinkedIn</span>
                   <ArrowUpRight size={14} />
                 </MagneticBtn>
-                <MagneticBtn href="https://github.com/Kushagra" className="contact-link">
+                <MagneticBtn href="https://github.com/kushagra1607" className="contact-link">
                   <ExternalLink size={18} />
                   <span>GitHub</span>
                   <ArrowUpRight size={14} />
